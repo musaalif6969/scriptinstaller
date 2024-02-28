@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Adds aimbot and esp to Shellshock io, voxiom.io
 // @author       red
-// @match        https://krunker.io/*
-// @match        https://shellshock.io/*
+// @match        *//krunker.io/*
+// @match        *//shellshock.io/*
 // @match        *://scrambled.world/*
 // @match        *://shellshockers.club/*
 // @match        *://shellshockers.site/*
