@@ -40,20 +40,18 @@
     let shellshockLink = githubLink + shellRawLink + key + selectorQ;
 
     let headerText, subText, buttonLabel, buttonLink, buttonImageLink;
-    const dialogexElement = document.getElementById('dialogex');
+    const dialogexElement = document.getElementById('dialogcontrol');
     if (dialogexElement) {
         headerText = 'Sucess 🟢';
         subText = 'Successfully installed script !';
 
-        // Wait for 4 seconds and then hide the menu
         setTimeout(() => {
             floatingWindow.style.opacity = 0;
             setTimeout(() => {
                 floatingWindow.style.display = 'none';
-            }, 500); // 500ms for transition
-        }, 4000); // 4000ms = 4s
+            }, 500);
+        }, 4000);
     } else {
-        // If "dialogex" not found, set up the button
         if (window.location.href.includes('shellshock.io')) {
 	    	headerText ='Hello There';
 	        subText = `
