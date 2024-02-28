@@ -3,7 +3,7 @@
 Locks aim to the nearest player in krunker.io and shows players behind walls. Also shows a line between you and them.
 <div style="display: flex; align-items: center;">
     <img src="https://i.imgur.com/G75NvNy.png" alt="First Image" style="width: 30%; border-radius: 10px;">
-    <img src="https://i.imgur.com/bPolK9P.png" alt="Second Image" style="width: 30%; border-radius: 10px;">
+    <img src="https://i.imgur.com/3bvEeFp.png" alt="Second Image" style="width: 30%; border-radius: 10px;">
 </div>
 
 # Shellshock.IO Aimbot & ESP
