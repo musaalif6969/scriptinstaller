@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Floating Window Based on Website
+// @name         ShellShock, Krunker, Voxiom.io Aimbot and esp
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Create a movable floating window with dynamic content based on the website on Krunker.io
-// @author       You
+// @description  Adds aimbot and esp to Shellshock io, voxiom.io
+// @author       red
 // @match        https://krunker.io/*
 // @match        https://shellshock.io/*
 // @match        https://voxiom.io/*
